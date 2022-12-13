@@ -1,5 +1,5 @@
 # **Svetlana Lopukhina** 
-![Фото](./rsschool-cv/it-cat.jpg)
+![Фото](../rsschool-cv/it-cat.jpg)
 ## Junior frontend developer
 ## **Contacts:**
 * mobile phone: +7(911)962-39-24
