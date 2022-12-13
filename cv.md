@@ -1,4 +1,5 @@
 # **Svetlana Lopukhina** 
+![Фото](/rsschool-cv\it-cat.jpg)
 ## Junior frontend developer
 ## **Contacts:**
 * mobile phone: +7(911)962-39-24
@@ -17,11 +18,14 @@ I think that my strengths is:
 * English: Pre-Intermediate
 * Russin: Native
 ## Skills:
-*HTML
-*CSS 
-*Flex 
-*Grid (begginer)
-*Adaptive layout (begginer)
-*Git (begginer)
-*BEM 
+* HTML (continuing)
+* CSS  (continuing)
+* Adaptive layout (begginer)
+  * Flex
+  * Grid (begginer)
+* Git (begginer)
+* BEM (continuing)
 ## Courses:
+* [https://praktikum.yandex.ru/profile/web/]('Yandex.Praktikum - my training project') 
+## Work experience:
+* Link Github- https://github.com/sweti2008/russian-travel
