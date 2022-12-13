@@ -13,3 +13,6 @@ I think that my strengths is:
 3. Keep my hands up 
 4. Self - disciplined
 5. Great desire to become Junior frontend developer in Epam
+## Languages:
+* English: Pre-Intermediate/intermediate
+* Russin: Native
