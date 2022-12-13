@@ -14,5 +14,14 @@ I think that my strengths is:
 4. Self - disciplined
 5. Great desire to become Junior frontend developer in Epam
 ## Languages:
-* English: Pre-Intermediate/intermediate
+* English: Pre-Intermediate
 * Russin: Native
+## Skills:
+*HTML
+*CSS 
+*Flex 
+*Grid (begginer)
+*Adaptive layout (begginer)
+*Git (begginer)
+*BEM 
+## Courses:
