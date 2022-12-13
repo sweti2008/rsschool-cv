@@ -1,5 +1,5 @@
 # **Svetlana Lopukhina** 
-![Фото](/rsschool-cv\it-cat.jpg)
+![Фото](/rsschool-cv/it-cat.jpg)
 ## Junior frontend developer
 ## **Contacts:**
 * mobile phone: +7(911)962-39-24
@@ -26,6 +26,7 @@ I think that my strengths is:
 * Git (begginer)
 * BEM (continuing)
 ## Courses:
-* [https://praktikum.yandex.ru/profile/web/]('Yandex.Praktikum - my training project') 
+* (https://praktikum.yandex.ru/profile/web/)['Yandex.Praktikum - my training project'] 
 ## Work experience:
 * Link Github- https://github.com/sweti2008/russian-travel
+I work for it =)
