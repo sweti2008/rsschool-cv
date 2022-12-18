@@ -13,6 +13,9 @@ html {
     scroll-behavior: smooth; 
   }
 
+  a {
+    text-decoration: none;
+  }
 .container {
     max-width: 1440px;
     margin: 0 auto;
@@ -59,4 +62,27 @@ html {
 
   .section-courses-link:hover {
     color: #e6a1d1;
+  }
+
+
+  .footer {
+    background-color: rgb(129, 128, 129) ;
+   
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-direction: flex-start;
+  }
+  .footer-link {
+    width: 121px;
+    height: 45px;
+    text-decoration: none;
+  }
+
+  .footer-img {
+    width: 121px;
+    height: 45px;
   }
