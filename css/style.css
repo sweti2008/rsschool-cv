@@ -51,3 +51,12 @@ html {
     margin: 0 auto;
     border-radius: 50%;
   }
+  .section-courses-link {
+    text-decoration: none;
+    color: #0a0a0a;
+    transition: color 0.4s;
+  }
+
+  .section-courses-link:hover {
+    color: #e6a1d1;
+  }
