@@ -3,6 +3,8 @@
 }
 
 body {
+  min-height: 100vh;
+  margin: 0; padding: 0;
     font-family: 'Open Sans', sans-serif;
     display: flex;
     flex-direction: column;
@@ -15,6 +17,7 @@ html {
 
   a {
     text-decoration: none;
+    cursor: pointer;
   }
 .container {
     max-width: 1440px;
@@ -36,15 +39,28 @@ html {
 
   .li {
    list-style-type: none;
+   color: white;
   }
 
+  .list-link {
+    list-style-type: none;
+   color: white;
+   transition: color 0.4s;
+
+  }
+
+  .list-link:hover {
+    
+      color: #e6a1d1;
+  
+  }
   .section-title-name {
     text-align: center;
   }
 
   .section-title {
     background-color: rgb(129, 128, 129);
-   
+   padding-left: 10px;
   }
 
   .section-title-img {
@@ -63,7 +79,14 @@ html {
   .section-courses-link:hover {
     color: #e6a1d1;
   }
+ .work-link {
+  color: #0a0a0a;
+  transition: color 0.4s;
+ }
 
+ .work-link:hover {
+  color: #e6a1d1;
+ }
 
   .footer {
     background-color: rgb(129, 128, 129) ;
@@ -80,6 +103,12 @@ html {
     width: 121px;
     height: 45px;
     text-decoration: none;
+    color: #0a0a0a;
+    transition: color 0.4s;
+  }
+
+  .footer-link:hover {
+    color: #e6a1d1;
   }
 
   .footer-img {
