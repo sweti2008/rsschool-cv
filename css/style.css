@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+html {
+    scroll-behavior: smooth; 
+  }
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+  }
+
+
+  .header {
+    background-color: rgb(41, 39, 39);
+    color: white;
+  }
+
+  .nav-list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+    flex-direction: flex-start;
+  }
+
+  .li {
+   list-style-type: none;
+  }
+
+  .section-title-name {
+    text-align: center;
+  }
+
+  .section-title {
+    background-color: rgb(129, 128, 129);
+   
+  }
+
+  .section-title-img {
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 50%;
+  }
